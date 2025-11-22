@@ -1567,6 +1567,7 @@ var hierarchy =
     [ "P4::IR::Traversal::Index", "struct_p4_1_1_i_r_1_1_traversal_1_1_index.html", null ],
     [ "P4::IterKeys< PairIter >", "class_p4_1_1_iter_keys.html", null ],
     [ "P4::IterValues< PairIter >", "class_p4_1_1_iter_values.html", null ],
+    [ "P4::JsonData::LocationInfo", "class_p4_1_1_json_data_1_1_location_info.html", null ],
     [ "P4::JSONGenerator", "class_p4_1_1_j_s_o_n_generator.html", null ],
     [ "P4::JSONLoader", "class_p4_1_1_j_s_o_n_loader.html", null ],
     [ "P4::KeyIsSimple", "class_p4_1_1_key_is_simple.html", [
@@ -2257,7 +2258,7 @@ var hierarchy =
     [ "P4::TypeUnification", "class_p4_1_1_type_unification.html", null ],
     [ "P4::UniqueAttachedId", "class_p4_1_1_unique_attached_id.html", null ],
     [ "P4::UniqueId", "class_p4_1_1_unique_id.html", null ],
-    [ "P4::UnparsedConstant", "namespace_p4.html#struct_p4_1_1_unparsed_constant", null ],
+    [ "P4::UnparsedConstant", "struct_p4_1_1_unparsed_constant.html", null ],
     [ "P4::UnrollLoops::loop_bounds_t", "class_p4_1_1_unroll_loops.html#struct_p4_1_1_unroll_loops_1_1loop__bounds__t", null ],
     [ "P4::UnrollLoops::Policy", "struct_p4_1_1_unroll_loops_1_1_policy.html", null ],
     [ "P4::UnusedCodeHelperVars", "namespace_p4.html#struct_p4_1_1_unused_code_helper_vars", null ],
@@ -3996,6 +3997,9 @@ var hierarchy =
         [ "P4::Util::CompilationError", "class_p4_1_1_util_1_1_compilation_error.html", null ],
         [ "P4::Util::CompilerBug", "class_p4_1_1_util_1_1_compiler_bug.html", null ],
         [ "P4::Util::CompilerUnimplemented", "class_p4_1_1_util_1_1_compiler_unimplemented.html", null ]
+      ] ],
+      [ "std::runtime_error", null, [
+        [ "P4::JsonData::error", "struct_p4_1_1_json_data_1_1error.html", null ]
       ] ]
     ] ],
     [ "std::false_type", null, [
